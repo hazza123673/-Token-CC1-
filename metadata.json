@@ -1,0 +1,14 @@
+{
+  "chainId": 103,
+  "address": "CneXBFTb85sTWRJsEDPV4PXbMDDoqnV7oU6iSPHrdt5V",
+  "symbol": "CC1",
+  "name": "Peace Token",
+  "description": "Peace Token on Solana Devnet – رمز تجريبي",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/hazza123673/-Token-CC1-/main/cc1.png",
+  "tags": ["test", "utility"],
+  "extensions": {
+    "website": "https://example.com",
+    "twitter": "https://twitter.com/example"
+  }
+}
